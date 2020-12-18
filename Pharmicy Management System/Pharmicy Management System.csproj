@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{26F0A7B0-7498-47AE-833E-58C5A70AD088}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pharmicy_Management_System</RootNamespace>
+    <AssemblyName>Pharmicy Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="SplashScreen, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SplashScreen.Winforms.1.0.0\lib\SplashScreen.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin_Pages\All_Purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Pages\All_Purchase.Designer.cs">
+      <DependentUpon>All_Purchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message_Box\Enter_No_Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message_Box\Enter_No_Record.Designer.cs">
+      <DependentUpon>Enter_No_Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message_Box\Ok_Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message_Box\Ok_Message.Designer.cs">
+      <DependentUpon>Ok_Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message_Box\User_Name_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message_Box\User_Name_Password.Designer.cs">
+      <DependentUpon>User_Name_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message_Box\No_Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message_Box\No_Data.Designer.cs">
+      <DependentUpon>No_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Pages\Add_To_Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Pages\Add_To_Cart.Designer.cs">
+      <DependentUpon>Add_To_Cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Add_To_Cart_Class.cs" />
+    <Compile Include="User_Pages\About_Us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Pages\About_Us.Designer.cs">
+      <DependentUpon>About_Us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Pages\Admin_Medicines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Pages\Admin_Medicines.Designer.cs">
+      <DependentUpon>Admin_Medicines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Pages\Loading_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Pages\Loading_Frm.Designer.cs">
+      <DependentUpon>Loading_Frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Pages\Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Pages\Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Pages\Company_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Pages\Company_Search.Designer.cs">
+      <DependentUpon>Company_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Pages\Formula_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Pages\Formula_Search.Designer.cs">
+      <DependentUpon>Formula_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Pages\Drug_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Pages\Drug_Search.Designer.cs">
+      <DependentUpon>Drug_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Pages\Home_Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Pages\Home_Patient.Designer.cs">
+      <DependentUpon>Home_Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Pages\Admin_Main_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Pages\Admin_Main_Page.Designer.cs">
+      <DependentUpon>Admin_Main_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Pages\Disease_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Pages\Disease_Search.Designer.cs">
+      <DependentUpon>Disease_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin_Pages\All_Purchase.resx">
+      <DependentUpon>All_Purchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message_Box\Enter_No_Record.resx">
+      <DependentUpon>Enter_No_Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message_Box\Ok_Message.resx">
+      <DependentUpon>Ok_Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message_Box\User_Name_Password.resx">
+      <DependentUpon>User_Name_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message_Box\No_Data.resx">
+      <DependentUpon>No_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Pages\Add_To_Cart.resx">
+      <DependentUpon>Add_To_Cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Pages\About_Us.resx">
+      <DependentUpon>About_Us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Pages\Admin_Medicines.resx">
+      <DependentUpon>Admin_Medicines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Pages\Loading_Frm.resx">
+      <DependentUpon>Loading_Frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Pages\Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Pages\Company_Search.resx">
+      <DependentUpon>Company_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Pages\Formula_Search.resx">
+      <DependentUpon>Formula_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Pages\Drug_Search.resx">
+      <DependentUpon>Drug_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Pages\Home_Patient.resx">
+      <DependentUpon>Home_Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Pages\Admin_Main_Page.resx">
+      <DependentUpon>Admin_Main_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Pages\Disease_Search.resx">
+      <DependentUpon>Disease_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370146_orig.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

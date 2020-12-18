@@ -1,0 +1,59 @@
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\Pharmicy Management System.exe.config
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\Pharmicy Management System.exe
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\Pharmicy Management System.pdb
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.csprojResolveAssemblyReference.cache
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Login_Form.resources
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Properties.Resources.resources
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.csproj.GenerateResource.Cache
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.exe
+c:\users\muhammadmaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.pdb
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\SplashScreen.dll
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Admin_Medicines.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Medicine_Search.resources
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Home_Patient.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Drug_Search.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Admin_Main_Page.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Formula_Search.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Company_Search.resources
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\MetroFramework.dll
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Loading_Frm.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.About_Us.resources
+C:\Users\MuhammadMaaz\Documents\Visual Studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Add_To_Cart.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.All_Purchase.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Ok_Message.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.User_Name_Password.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.No_Data.resources
+C:\Users\MuhammadMaaz\documents\visual studio 2015\Projects\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Enter_No_Record.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\Pharmicy Management System.exe.config
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.exe
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.pdb
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\Pharmicy Management System.exe
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\Pharmicy Management System.pdb
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\MetroFramework.dll
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\SplashScreen.dll
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.All_Purchase.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Enter_No_Record.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Ok_Message.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.User_Name_Password.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.No_Data.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Add_To_Cart.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.About_Us.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Admin_Medicines.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Loading_Frm.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Login_Form.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Company_Search.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Formula_Search.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Drug_Search.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Home_Patient.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Admin_Main_Page.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Medicine_Search.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy_Management_System.Properties.Resources.resources
+C:\Users\Muhammad Maaz\Desktop\Pharmicy Management System\Pharmicy Management System\obj\Debug\Pharmicy Management System.csproj.GenerateResource.Cache
